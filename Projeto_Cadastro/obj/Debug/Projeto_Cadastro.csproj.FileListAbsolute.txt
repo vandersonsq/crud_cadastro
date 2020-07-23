@@ -28,3 +28,13 @@ C:\Users\949343\Desktop\Projeto_Cadastro\Projeto_Cadastro\obj\Debug\Projeto_Cada
 C:\Users\949343\Desktop\Projeto_Cadastro\Projeto_Cadastro\obj\Debug\Projeto_Cadastro.csproj.CoreCompileInputs.cache
 C:\Users\949343\Desktop\Projeto_Cadastro\Projeto_Cadastro\obj\Debug\Projeto_Cadastro.exe
 C:\Users\949343\Desktop\Projeto_Cadastro\Projeto_Cadastro\obj\Debug\Projeto_Cadastro.pdb
+C:\Users\949343\Desktop\crud_cadastro\Projeto_Cadastro\bin\Debug\Projeto_Cadastro.exe.config
+C:\Users\949343\Desktop\crud_cadastro\Projeto_Cadastro\bin\Debug\Projeto_Cadastro.exe
+C:\Users\949343\Desktop\crud_cadastro\Projeto_Cadastro\bin\Debug\Projeto_Cadastro.pdb
+C:\Users\949343\Desktop\crud_cadastro\Projeto_Cadastro\obj\Debug\Projeto_Cadastro.csprojAssemblyReference.cache
+C:\Users\949343\Desktop\crud_cadastro\Projeto_Cadastro\obj\Debug\Projeto_Cadastro.Form1.resources
+C:\Users\949343\Desktop\crud_cadastro\Projeto_Cadastro\obj\Debug\Projeto_Cadastro.Properties.Resources.resources
+C:\Users\949343\Desktop\crud_cadastro\Projeto_Cadastro\obj\Debug\Projeto_Cadastro.csproj.GenerateResource.cache
+C:\Users\949343\Desktop\crud_cadastro\Projeto_Cadastro\obj\Debug\Projeto_Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\949343\Desktop\crud_cadastro\Projeto_Cadastro\obj\Debug\Projeto_Cadastro.exe
+C:\Users\949343\Desktop\crud_cadastro\Projeto_Cadastro\obj\Debug\Projeto_Cadastro.pdb
